@@ -1,0 +1,10 @@
+drop table if exists internship_time_sheet;
+drop table if exists mentor_internship;
+drop table if exists reviews;
+drop table if exists intern;
+drop table if exists mentor;
+drop table if exists users;
+drop table if exists roles;
+drop table if exists university;
+drop table if exists company_card;
+drop table if exists positions;
